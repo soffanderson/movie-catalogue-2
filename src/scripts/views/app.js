@@ -8,7 +8,7 @@ class App {
 
     this._initialAppShell();
   }
-
+  // Membuat app shell (header, footer, drawer)
   // eslint-disable-next-line class-methods-use-this
   _initialAppShell() {
     DrawerInitiator.init({
