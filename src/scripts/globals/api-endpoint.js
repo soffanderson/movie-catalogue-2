@@ -1,3 +1,4 @@
+/* eslint-disable arrow-body-style */
 /* eslint-disable implicit-arrow-linebreak */
 import CONFIG from './config';
 
